@@ -9,7 +9,7 @@ terraform {
 
 variable "do_token" {
   type = string
-  default= "dop_v1_62bae041627e0cd0f5f6ad1fc1a2c5f722c3643a435094223fabc9c4878715a6"
+  default= "dop_v1_a63860ce904a35ee7aff0390fc40d13b9b1d0aed7c43177224a3a22152773b1b"
 }
 variable "pvt_key" {
   type = string
