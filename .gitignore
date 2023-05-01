@@ -2,3 +2,4 @@ run-terraform-plan.sh
 run-terraform-apply.sh
 .terraform*
 *.tfstate
+*.backup

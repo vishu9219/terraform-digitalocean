@@ -7,10 +7,6 @@ terraform {
   }
 }
 
-variable "do_token" {
-  type = string
-  default= "dop_v1_a63860ce904a35ee7aff0390fc40d13b9b1d0aed7c43177224a3a22152773b1b"
-}
 variable "pvt_key" {
   type = string
   default = "~/.ssh/id_rsa"
